@@ -14,7 +14,6 @@ public class Exam_10 {
 	System.out.print("'A'!=65:"+('A'!=65));
 
 	
-	
 	}
 
 }
