@@ -1,0 +1,29 @@
+//배열 [] 1차원 배열, [][] 2차원 배열
+public class Exam_06 {
+
+	public static void main(String[] args) {
+    //배열선언
+		int arr[]; //int[] arr;
+		
+		//공간 할당
+		arr= new int[5]; //자동초기화
+		System.out.println("arr: "+arr);
+		System.out.println("arr[0]: "+arr[0]);
+		System.out.println("arr[1]: "+arr[1]);
+		//System.out.println("arr[5]: "+arr[5]);
+		//arr=10;
+		arr[0]=100;
+
+
+		//배열의 선과과 메모리 할당
+		int var[] = new int[5];
+		
+				
+		
+		
+		
+		
+		
+	}
+
+}
