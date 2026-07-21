@@ -12,7 +12,8 @@ public class Exam_03 {
 					max= arr[i];
 			}
 			System.out.print("\n");
-			return 
+			
+			return max;
 		}
 	}
 

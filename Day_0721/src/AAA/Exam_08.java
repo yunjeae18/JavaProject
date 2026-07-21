@@ -1,0 +1,9 @@
+package AAA;
+
+public class Exam_08 {
+
+	public static void main(String[] args) {
+    
+	}
+
+}
